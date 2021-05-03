@@ -1,0 +1,18 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Manual de Usuario.chm
+Contents file=Table of Contents.hhc
+Default Window=Buscar
+Default topic=Principal.htm
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0xc0a Español (España, internacional)
+Title=DashBoard User Manual
+
+[WINDOWS]
+Buscar=,"Table of Contents.hhc","Index.hhk","Principal.htm","Principal.htm",,,,,0x22520,,0x3066,,0x81000000,,,,,,0
+
+
+[INFOTYPES]
+

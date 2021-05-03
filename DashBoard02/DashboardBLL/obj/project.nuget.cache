@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "wm2ZYM7ygyIzd6D3WJqCBfD4jX+W/Ob9dKdlBK8iBUZM+bTRfDnwcMyfhDUCqHNNZAKHk0jVsc2Y5utnQP89Hg==",
+  "success": true,
+  "projectFilePath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JOJOR\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\JOJOR\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

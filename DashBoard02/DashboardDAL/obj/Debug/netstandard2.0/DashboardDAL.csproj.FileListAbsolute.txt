@@ -1,0 +1,12 @@
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.csprojAssemblyReference.cache
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.AssemblyInfoInputs.cache
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.AssemblyInfo.cs
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.csproj.CoreCompileInputs.cache
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\bin\Debug\netstandard2.0\DashboardDAL.deps.json
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\bin\Debug\netstandard2.0\DashboardDAL.dll
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\bin\Debug\netstandard2.0\DashboardDAL.pdb
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\bin\Debug\netstandard2.0\DashboardUtilidades.dll
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\bin\Debug\netstandard2.0\DashboardUtilidades.pdb
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.csproj.CopyComplete
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.dll
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashboardDAL\obj\Debug\netstandard2.0\DashboardDAL.pdb

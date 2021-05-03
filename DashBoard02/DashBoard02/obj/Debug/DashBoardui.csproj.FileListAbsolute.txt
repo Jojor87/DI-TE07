@@ -1,0 +1,4 @@
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashBoard02\obj\Debug\DashBoardui.csprojAssemblyReference.cache
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashBoard02\obj\Debug\DashBoard02.Properties.Resources.resources
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashBoard02\obj\Debug\DashBoardui.csproj.GenerateResource.cache
+D:\GIT\DAM\ProyectosDI\UD06DashBoard\DashBoard02\DashBoard02\obj\Debug\DashBoardui.csproj.CoreCompileInputs.cache
