@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj": {}
+    "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj": {}
   },
   "projects": {
-    "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj": {
+    "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj",
+        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj",
         "projectName": "DashboardBLL",
-        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj",
+        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardBLL\\DashboardBLL.csproj",
         "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardBLL\\obj\\",
+        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardBLL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj": {
-                "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj"
+              "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj": {
+                "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj"
               },
-              "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj": {
-                "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj"
+              "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj": {
+                "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj"
               }
             }
           }
@@ -68,14 +68,14 @@
         }
       }
     },
-    "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj": {
+    "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj",
+        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj",
         "projectName": "DashboardDAL",
-        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj",
+        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardDAL\\DashboardDAL.csproj",
         "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardDAL\\obj\\",
+        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardDAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -92,8 +92,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj": {
-                "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj"
+              "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj": {
+                "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj"
               }
             }
           }
@@ -129,14 +129,14 @@
         }
       }
     },
-    "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj": {
+    "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
+        "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
         "projectName": "DashboardUtilidades",
-        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
+        "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
         "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\obj\\",
+        "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

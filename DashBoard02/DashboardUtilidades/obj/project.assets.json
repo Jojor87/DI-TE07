@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
+      "projectUniqueName": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
       "projectName": "DashboardUtilidades",
-      "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
+      "projectPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\DashboardUtilidades.csproj",
       "packagesPath": "C:\\Users\\JOJOR\\.nuget\\packages\\",
-      "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\UD06DashBoard\\DashBoard02\\DashboardUtilidades\\obj\\",
+      "outputPath": "D:\\GIT\\DAM\\ProyectosDI\\DITE07\\DashBoard02\\DashboardUtilidades\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\JOJOR\\AppData\\Roaming\\NuGet\\NuGet.Config",

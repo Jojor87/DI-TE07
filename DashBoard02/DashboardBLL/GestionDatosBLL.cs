@@ -6,7 +6,7 @@ namespace DashboardBLL
 {
     public class GestionDatosBLL
     {
-            // constructor() {}
+            //dfgedgerdfgfd constructor() {}
             public GestionDatosBLL()
             {
 
