@@ -4,9 +4,9 @@ Los datos se recogen de dos archivos .csv y se muestran en la interfaz gráfica.
 
 ## TABLA DE CONTENIDOS
 - [About](https://github.com/Jojor87/DI-TE07/blob/main/README.md#about)
-- Contacto
-- Referencias
-- Licencia
+- [Contacto](https://github.com/Jojor87/DI-TE07/blob/main/README.md#contacto)
+- [Referencias](https://github.com/Jojor87/DI-TE07/blob/main/README.md#referencias)
+- [Licencia](https://github.com/Jojor87/DI-TE07/blob/main/README.md#licencia)
 
 ## About
 La aplicación consiste en simular un DashBoard para una empresa de comerciales. Se muestra a través de una interfaz gráfica los datos personales de 3 comerciales, así como sus ventas en las diferentes empresas en forma numérica y con gráficos.
