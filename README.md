@@ -3,7 +3,7 @@ Este proyecto es para la realización de la tarea evaluativa 07. Consta de una a
 Los datos se recogen de dos archivos .csv y se muestran en la interfaz gráfica. El proyecto tiene también como añadido un user manual creado con el software HTML help workshop.
 
 ## TABLA DE CONTENIDOS
-- About
+- [About](## About)
 - Contacto
 - Referencias
 - Licencia
@@ -20,10 +20,11 @@ Esta aplicación ha sido desarrollada por Jordi Osuna, estudiante a tiempo parci
 Para mas información puedes ponerte en contacto a través de su email: josuna@birt.eus
 
 ## Referencias
-En este apartado se citan los videos o la documentación que se ha usado para ayudar a realizar la app.     
+En este apartado se citan los videos de youtube y la documentación que se ha usado para ayudar a realizar la app:    
 * [M1/ Dashboard, Gráficos Estadísticos, Sumario de Aplicación - C#, WinForm, SQL Server y SP- N. Medio](https://www.youtube.com/watch?v=csrTqHxXeLs&ab_channel=RJCodeAdvance)
+* [Ui design idea in Windows form Application Visual C#](https://www.youtube.com/watch?v=K9Ps66GoD-k&ab_channel=C%23UiAcademy)
 * [3-pasos-debes-considerar-crear-dashboard](https://blog.auriboxconsulting.com/3-pasos-debes-considerar-crear-dashboard/)
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.txt](/LICENSE.txt) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](/LICENSE.txt) para mas detalles
