@@ -17,7 +17,8 @@ Dicha aplicación esta orientada para empresas que se dediquen a las ventas.
 
 ## Contacto
 Esta aplicación ha sido desarrollada por Jordi Osuna, estudiante a tiempo parcial de segundo de DAM en el centro de BrtLH. 
-Para mas información puedes ponerte en contacto a través de su email: josuna@birt.eus
+
+Para mas información puedes ponerte en contacto a través del email: josuna@birt.eus
 
 ## Referencias
 En este apartado se citan los videos de youtube y la documentación que se ha usado para ayudar a realizar la app:    
