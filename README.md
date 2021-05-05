@@ -3,7 +3,7 @@ Este proyecto es para la realización de la tarea evaluativa 07. Consta de una a
 Los datos se recogen de dos archivos .csv y se muestran en la interfaz gráfica. El proyecto tiene también como añadido un user manual creado con el software HTML help workshop.
 
 ## TABLA DE CONTENIDOS
-- [About](## About)
+- About(## About)
 - Contacto
 - Referencias
 - Licencia
