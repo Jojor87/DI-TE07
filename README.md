@@ -20,9 +20,10 @@ Esta aplicación ha sido desarrollada por Jordi Osuna, estudiante a tiempo parci
 Para mas información puedes ponerte en contacto a través de su email: josuna@birt.eus
 
 ## Referencias
-En este apartado se citan los videos o la documentación que se ha usado para ayudar a realizar la app.
- [M1/ Dashboard, Gráficos Estadísticos, Sumario de Aplicación - C#, WinForm, SQL Server y SP- N. Medio](https://www.youtube.com/watch?v=csrTqHxXeLs&ab_channel=RJCodeAdvance)
+En este apartado se citan los videos o la documentación que se ha usado para ayudar a realizar la app.     
+* [M1/ Dashboard, Gráficos Estadísticos, Sumario de Aplicación - C#, WinForm, SQL Server y SP- N. Medio](https://www.youtube.com/watch?v=csrTqHxXeLs&ab_channel=RJCodeAdvance)
+* [3-pasos-debes-considerar-crear-dashboard](https://blog.auriboxconsulting.com/3-pasos-debes-considerar-crear-dashboard/)
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](/LICENSE.txt) para detalles
+Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE.txt](/LICENSE.txt) para detalles
