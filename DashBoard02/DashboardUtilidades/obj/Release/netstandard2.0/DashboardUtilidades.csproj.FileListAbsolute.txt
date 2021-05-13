@@ -1,0 +1,8 @@
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\bin\Release\netstandard2.0\DashboardUtilidades.deps.json
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\bin\Release\netstandard2.0\DashboardUtilidades.dll
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\bin\Release\netstandard2.0\DashboardUtilidades.pdb
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\obj\Release\netstandard2.0\DashboardUtilidades.AssemblyInfoInputs.cache
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\obj\Release\netstandard2.0\DashboardUtilidades.AssemblyInfo.cs
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\obj\Release\netstandard2.0\DashboardUtilidades.csproj.CoreCompileInputs.cache
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\obj\Release\netstandard2.0\DashboardUtilidades.dll
+D:\GIT\DAM\ProyectosDI\DITE07\DashBoard02\DashboardUtilidades\obj\Release\netstandard2.0\DashboardUtilidades.pdb
